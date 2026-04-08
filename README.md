@@ -86,12 +86,11 @@ Run notebooks in order:
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
+git clone https://github.com/JyotiBhardwaj27/Multiclass-COVID19-Detection-from-Chest-Xray-Images.git
+cd https://github.com/JyotiBhardwaj27/Multiclass-COVID19-Detection-from-Chest-Xray-Images.git
 pip install -r requirements.txt
 streamlit run app.py
-,,,
+```
 ---
 ## 🌐 App Features
 
